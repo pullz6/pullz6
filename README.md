@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-
-🔮 Data scientist and Data Detective </br> 
+ 
+- 🔮 Data scientist and Data Detective 
 - 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 😄 Pronouns: she/her

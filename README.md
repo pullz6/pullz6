@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 🔮 Data scientist and Data Detective </br> 
 - 🌱 I’m currently learning Docker and Kubernetes
@@ -8,7 +7,6 @@
 - 😄 Pronouns: she/her
 
 
--->
 
 
 ## 🌐 Socials:
